@@ -40,3 +40,4 @@ Apache 2.0
 
 See the included LICENSE file for details.
 
+# snomed-ui-examples
